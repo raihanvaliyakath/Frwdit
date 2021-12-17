@@ -21,9 +21,10 @@ More details /help</i>"""
 * /about - <b>About Me</b>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
-<b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
+<b>Name :</b> AUTO FORWARD BOT
+<b>Credit :</b> [IVAN] (t.me/RAIHAN_TG)
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
 <b>Build :</b><code>V0.1</code>"""
+<b>2ND CONTRIBUTOR :</b> [IVAN] (t.me/MALAYALI_DUDE)
